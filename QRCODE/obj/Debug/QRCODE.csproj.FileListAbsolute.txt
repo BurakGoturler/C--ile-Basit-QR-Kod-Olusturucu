@@ -1,0 +1,13 @@
+D:\Dosyalar\c# projeler\QRCODE\bin\Debug\QRCODE.exe.config
+D:\Dosyalar\c# projeler\QRCODE\bin\Debug\QRCODE.exe
+D:\Dosyalar\c# projeler\QRCODE\bin\Debug\QRCODE.pdb
+D:\Dosyalar\c# projeler\QRCODE\bin\Debug\QRCoder.dll
+D:\Dosyalar\c# projeler\QRCODE\obj\Debug\QRCODE.csproj.AssemblyReference.cache
+D:\Dosyalar\c# projeler\QRCODE\obj\Debug\QRCODE.csproj.SuggestedBindingRedirects.cache
+D:\Dosyalar\c# projeler\QRCODE\obj\Debug\QRCODE.Form1.resources
+D:\Dosyalar\c# projeler\QRCODE\obj\Debug\QRCODE.Properties.Resources.resources
+D:\Dosyalar\c# projeler\QRCODE\obj\Debug\QRCODE.csproj.GenerateResource.cache
+D:\Dosyalar\c# projeler\QRCODE\obj\Debug\QRCODE.csproj.CoreCompileInputs.cache
+D:\Dosyalar\c# projeler\QRCODE\obj\Debug\QRCODE.csproj.CopyComplete
+D:\Dosyalar\c# projeler\QRCODE\obj\Debug\QRCODE.exe
+D:\Dosyalar\c# projeler\QRCODE\obj\Debug\QRCODE.pdb
